@@ -1,0 +1,79 @@
+{
+  "transactions": [
+    {
+      "id": 2,
+      "data": "2024-07-02",
+      "valor": 50,
+      "categoriaId": "2",
+      "descricao": "Almoço no restaurante"
+    },
+    {
+      "id": 3,
+      "data": "2024-07-03",
+      "valor": 20,
+      "categoriaId": "3",
+      "descricao": "Passagem de ônibus"
+    },
+    {
+      "id": 4,
+      "data": "2024-07-05",
+      "valor": 100,
+      "categoriaId": "4",
+      "descricao": "Compras semanais de supermercado"
+    },
+    {
+      "id": 5,
+      "data": "2024-07-06",
+      "valor": 200,
+      "categoriaId": 5,
+      "descricao": "Pagamento por projeto freelance"
+    },
+    {
+      "data": "2024-07-25",
+      "valor": 24,
+      "descricao": "Cinema",
+      "categoriaId": "6",
+      "id": 6
+    },
+    {
+      "data": "2024-07-26",
+      "valor": 100,
+      "descricao": "Salário",
+      "categoriaId": "1",
+      "id": 7
+    },
+    {
+      "data": "2024-07-24",
+      "valor": 1000,
+      "descricao": "Salario do mes !",
+      "categoriaId": "1",
+      "id": 8
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Salário"
+    },
+    {
+      "id": 2,
+      "nome": "Alimentação"
+    },
+    {
+      "id": 3,
+      "nome": "Transporte"
+    },
+    {
+      "id": 4,
+      "nome": "Supermercado"
+    },
+    {
+      "id": 5,
+      "nome": "Freelance"
+    },
+    {
+      "nome": "Lazer",
+      "id": 6
+    }
+  ]
+}
